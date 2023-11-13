@@ -1,0 +1,7 @@
+H:\12 asztali\epitkezes\epitkezes\bin\Debug\epitkezes.exe.config
+H:\12 asztali\epitkezes\epitkezes\bin\Debug\epitkezes.exe
+H:\12 asztali\epitkezes\epitkezes\bin\Debug\epitkezes.pdb
+H:\12 asztali\epitkezes\epitkezes\obj\Debug\epitkezes.csproj.AssemblyReference.cache
+H:\12 asztali\epitkezes\epitkezes\obj\Debug\epitkezes.csproj.CoreCompileInputs.cache
+H:\12 asztali\epitkezes\epitkezes\obj\Debug\epitkezes.exe
+H:\12 asztali\epitkezes\epitkezes\obj\Debug\epitkezes.pdb
